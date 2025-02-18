@@ -1,0 +1,1 @@
+This error occurs when you try to access a state variable or prop before it has been assigned a value. This is common when working with asynchronous operations or when component rendering happens before the data is available.
